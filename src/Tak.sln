@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27004.2006
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tak", "Tak\Tak.csproj", "{47974F6E-6E25-4F16-B2C3-4CE02F104234}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tak.Test", "Tak.Test\Tak.Test.csproj", "{AD9D73F4-388B-43E5-BF46-E2D1CF060B25}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{47974F6E-6E25-4F16-B2C3-4CE02F104234}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{47974F6E-6E25-4F16-B2C3-4CE02F104234}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{47974F6E-6E25-4F16-B2C3-4CE02F104234}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{47974F6E-6E25-4F16-B2C3-4CE02F104234}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AD9D73F4-388B-43E5-BF46-E2D1CF060B25}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AD9D73F4-388B-43E5-BF46-E2D1CF060B25}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AD9D73F4-388B-43E5-BF46-E2D1CF060B25}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AD9D73F4-388B-43E5-BF46-E2D1CF060B25}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {25FA715A-CB07-40D1-AE68-C321BC5C0A9F}
+	EndGlobalSection
+EndGlobal
